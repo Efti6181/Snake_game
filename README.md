@@ -35,7 +35,7 @@ python snake_game.py
 
 Use the arrow keys (Up, Down, Left, Right) to control the direction of the snake.
 
-#Game Configuration
+# Game Configuration
 
 Modify the game_config dictionary in the snake_game.py file to customize:
 
