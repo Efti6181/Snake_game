@@ -1,8 +1,8 @@
-#Snake Game
+# Snake Game
 
 A classic Snake game implemented in Python using the tkinter library. Control the snake, eat food, and grow longer without colliding with yourself or the walls.
 
-#Features
+# Features
 
 Adjustable game dimensions and speed.
 
@@ -10,13 +10,13 @@ Dynamic score tracking.
 
 Game-over screen.
 
-#Prerequisites
+# Prerequisites
 
 To run this game, you need:
 
 Python 3.6+
 
-#How to Run
+# How to Run
 
 Clone this repository:
 
@@ -31,7 +31,7 @@ Run the game:
 
 python snake_game.py
 
-#Game Controls
+# Game Controls
 
 Use the arrow keys (Up, Down, Left, Right) to control the direction of the snake.
 
@@ -56,7 +56,7 @@ FOOD_COLOR: Color of the food (default: #FF0000).
 BACKGROUND_COLOR: Background color of the game window (default: #000000).
 
 
-#License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
